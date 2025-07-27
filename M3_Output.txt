@@ -1,0 +1,30 @@
+DELETE 13
+REPLACE 15 WARN  - User 'user009' deleted file '/home/user009/trash/old_notes.txt'
+REPLACE 33 WARN  - User 'user016' deleted file '/home/user016/trash/old_notes.txt'
+REPLACE 34 WARN  - User 'user015' deleted file '/home/user015/trash/old_notes.txt'
+INSERT [2025-06-27 10:04:22] INFO  - User 'user007' logged out
+INSERT [2025-06-27 10:05:10] INFO  - User 'user009' logged out
+INSERT [2025-06-27 10:05:11] INFO  - User 'user007' logged in from IP 192.168.1.163
+REPLACE 58 WARN  - User 'user009' deleted file '/home/user009/trash/old_notes.txt'
+REPLACE 62 WARN  - User 'user002' deleted file '/home/user002/trash/old_notes.txt'
+INSERT [2025-06-27 10:06:40] INFO  - User 'user009' logged in from IP 192.168.1.35
+INSERT [2025-06-27 10:06:45] INFO  - User 'user006' logged out
+REPLACE 68 WARN  - User 'user011' deleted file '/home/user011/trash/old_notes.txt'
+INSERT [2025-06-27 10:07:41] INFO  - User 'user006' logged in from IP 192.168.1.134
+REPLACE 89 WARN  - User 'user018' deleted file '/home/user018/trash/old_notes.txt'
+REPLACE 93 INFO  - Log rotation completed
+INSERT [2025-06-27 10:08:10] INFO  - User 'user020' logged in from IP 192.168.1.88
+INSERT [2025-06-27 10:08:20] INFO  - User 'user003' logged out
+REPLACE 101 INFO  - Log rotation completed
+INSERT [2025-06-27 10:08:43] INFO  - User 'user003' logged in from IP 192.168.1.21
+REPLACE 113 WARN  - User 'user010' deleted file '/home/user010/trash/old_notes.txt'
+REPLACE 119 WARN  - User 'user010' deleted file '/home/user010/trash/old_notes.txt'
+DELETE 120
+REPLACE 123 WARN  - User 'user017' deleted file '/home/user017/trash/old_notes.txt'
+REPLACE 127 WARN  - User 'user019' deleted file '/home/user019/trash/old_notes.txt'
+REPLACE 133 WARN  - User 'user014' deleted file '/home/user014/trash/old_notes.txt'
+REPLACE 136 WARN  - User 'user003' deleted file '/home/user003/trash/old_notes.txt'
+INSERT [2025-06-27 10:14:50] INFO  - User 'user003' logged in from IP 192.168.1.20
+REPLACE 148 WARN  - CPU usage warning: 91%
+DELETE 150
+REPLACE 164 WARN  - CPU usage warning: 99%
