@@ -25,9 +25,8 @@ This repository contains my journey and solutions for **UNHACK 2025**, a hackath
 
 ## 📂 Repository Structure
 
-- `📁 problem_statement/` – Problem Statement including all milestones.
-- `💻 solutions/` – My solutions for all milestones and practice problems.
-- `📄 Output_files/` – Output text files for milestones completed.
+- `📁 practice_problems/` – Code and output file for practice problems for all the milestones.
+- `📄 pptx/` – Problem statements for pratice and final day.
 
 ## 💡 Key Takeaways
 - ⏱️ Enhanced problem-solving under time pressure
